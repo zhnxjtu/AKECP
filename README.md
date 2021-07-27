@@ -1,7 +1,6 @@
 # AKECP
 
-This is the code for "AKECP: Adaptive Knowledge Extraction from Feature Maps for
-Fast and Efficient Channel Pruning". We take code for ResNet-110 as an axample.
+This is the code for "AKECP: Adaptive Knowledge Extraction from Feature Maps for Fast and Efficient Channel Pruning". We take the code for ResNet-110 as an axample.
 
 Firstly, in floder "python code", run "Main_FmObtain.py" to get the feature maps (Here, we input 10 images as an example, where the first image is used for pruning in the paper); 
 
